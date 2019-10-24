@@ -40,7 +40,7 @@ What are the final values of variables `num1`, `num2`, `num3`, and `num4` in the
 ```
 int num1 = 10;
 int num2 = 20;
-double num3 = num1 / num 2;
+double num3 = num1 / num2;
 double num4 = num1 / (double) num2;
 num1 = num1 * num4;
 num2 = (int) (num2 * num4);
@@ -198,7 +198,7 @@ What will be printed by the following Java statements?
 File inputFile = null;
 Scanner scanner = null;
 try {
-   inputFile = new File("input/Ulysses.txt");
+   inputFile = new File("input/input.txt");
    scanner = new Scanner(inputFile);
 } catch (FileNotFoundException noFile) {
    System.out.println("Unable to locate file");
