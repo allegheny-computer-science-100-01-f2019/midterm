@@ -42,7 +42,7 @@ int num1 = 10;
 int num2 = 20;
 double num3 = num1 / num2;
 double num4 = num1 / (double) num2;
-num1 = num1 * num4;
+num1 = (int) num1 * num4;
 num2 = (int) (num2 * num4);
 ```
 
