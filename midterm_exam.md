@@ -5,6 +5,10 @@
 ### Question 1
 Explain (in a few sentences) how object-oriented nature of Java can be used in the computational thinking process.
 
+``` diff
+- Feedback: 4/5.
+More feedback or correct answer.
+```
 
 ### Question 2
 Which of the following classes is a part of the java.lang package? Put x inside brackets to indicate the chosen answer.
